@@ -1,0 +1,12 @@
+name: BasicEcom
+recipe: wordpress
+config:
+  webroot: .
+  xdebug: true
+services:
+  database:
+    type: mysql
+  pma:
+    type: phpmyadmin
+    hosts:
+      - database
