@@ -1,5 +1,5 @@
 # wp-boilerplate
-My WordPress workflow. Developed in large part with [Jon Powers](https://github.com/jpowersdev) and tools introduced to me by [AJ Jardiah](https://github.com/AjDigitalDesign)
+My WordPress workflow. Developed in large part with [Jon Powers](https://github.com/jpowersdev) and utilizes a number of tools introduced to me by [AJ Jardiah](https://github.com/AjDigitalDesign)
 
 ## Step 1: Install Docker
 
