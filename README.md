@@ -13,7 +13,7 @@ From there, I head over to [underscores.me] to grab my starter theme. Download a
 
 ## Step 3: WPGulp
 
-My final tool before I hit the ground running is wpgulp. This provides a number of features I couldn’t imagine working without. Auto-reloading, sass compilation, css and JavaScript minifying, and even image optimization. This tool removes much of the hassle of optimizing your code, and auto-reload is a godsend while writing CSS. No more F5 mashing required!
+My final tool before I hit the ground running is [WPGulp](https://github.com/ahmadawais/WPGulp). This provides a number of features I couldn’t imagine working without. Auto-reloading, sass compilation, css and JavaScript minifying, and even image optimization. This tool removes much of the hassle of optimizing your code, and auto-reload is a godsend while writing CSS. No more F5 mashing required!
 
 ## Step 4: Plugins & Other Tools
 
