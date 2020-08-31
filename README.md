@@ -1,5 +1,10 @@
 # wp-boilerplate
+
 My WordPress workflow. Developed in large part with [Jon Powers](https://github.com/jpowersdev) and utilizes a number of tools introduced to me by [AJ Jardiah](https://github.com/AjDigitalDesign)
+
+## UPDATE 08/31/2020
+
+I wrote a very basic bash script to automate my setup process! I've added it to the repository. To use it, you can simply copy the contents of the file and create your own .sh file, then `chmod +x yourfile.sh` to make it executable, and run it wherever you store your projects!
 
 ## Step 1: Install Docker
 
@@ -17,7 +22,4 @@ My final tool before I hit the ground running is [WPGulp](https://github.com/ahm
 
 ## Step 4: Plugins & Other Tools
 
-To further optimize images, I make use of [Lazysizes](https://github.com/aFarkas/lazysizes). With a single JS file, and some data-src attributes, you can lazy load all your images without having to rely on bulky plugins. However, there are a few plugins that are indispensable. The obvious ones are Advanced Custom Fields and Custom Post Type UI for custom fields and custom post types. I also utilize wp-all-in-one for quick backups, and for uploading sites once my local development is complete. Github is of course another essential tool for managing codeouts and maintaining sites once they launch. 
-
-
-
+To further optimize images, I make use of [Lazysizes](https://github.com/aFarkas/lazysizes). With a single JS file, and some data-src attributes, you can lazy load all your images without having to rely on bulky plugins. However, there are a few plugins that are indispensable. The obvious ones are Advanced Custom Fields and Custom Post Type UI for custom fields and custom post types. I also utilize wp-all-in-one for quick backups, and for uploading sites once my local development is complete. Github is of course another essential tool for managing codeouts and maintaining sites once they launch.
